@@ -1,5 +1,6 @@
 /*
 *= require main
+*= require_tree
 *= require bootstrap-addon
 *= require jquery-addon
 *= require blogs
